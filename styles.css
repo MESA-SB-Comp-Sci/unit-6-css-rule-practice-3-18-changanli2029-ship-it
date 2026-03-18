@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+}
+
+
+html{
+    background-image: url(/mockUPChallenge.png);
+}
+
+
+p{
+    color: white;
+    text-align: center;
+}
+
+
+header{
+    background-color: black;
+    text-align:center;
+    text-shadow:  2px  2px white;
+}
+
+
+main{
+    background-color: purple;
+    
+}
+      
+footer {
+    background-color: black;
+}
